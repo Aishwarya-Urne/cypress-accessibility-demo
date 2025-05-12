@@ -2,9 +2,9 @@
 
 This is a sample project demonstrating accessibility testing using:
 
-- ✅ Cypress
-- 🧠 axe-core via `cypress-axe`
-- 🔍 Lighthouse
+- Cypress
+- axe-core via `cypress-axe`
+- Lighthouse
 
 ## Commands
 
