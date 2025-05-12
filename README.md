@@ -6,6 +6,14 @@ This is a sample project demonstrating accessibility testing using:
 - axe-core via `cypress-axe`
 - Lighthouse
 
+
+## Pre-requisties 
+- Cypress
+- axe-core
+- cypress-axe
+- Lighthouse
+
+
 ## Commands
 
 - `npx cypress open` — Run Cypress tests
